@@ -1,0 +1,1 @@
+#define a function that can represent a model that will analize the data 
